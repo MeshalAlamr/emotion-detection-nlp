@@ -45,4 +45,4 @@ Afterwards, we did more analysis for the top 5 emotions and found out that:
 - Most of the tweets have around 45 characters.
 - The most frequent token length is around 10.
 
-Currently, wer're in the midst of text pre-processing and model development.
+Currently, we're in the midst of text pre-processing and model development.
