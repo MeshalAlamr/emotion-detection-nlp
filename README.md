@@ -9,6 +9,9 @@ Detecting emotions from tweets based on output feature vectors of topic modellin
 ## Project MVP <a name="mvp" />
 #### The project MVP can be found [here](https://github.com/MeshalAlamr/emotion-detection-nlp/tree/main/MVP).
 
+## Main Notebook 
+#### The project notebook can be found [here](https://github.com/MeshalAlamr/flight-price-prediction/blob/main/flight-price-prediction.ipynb).
+
 ## Presentation <a name="presentation" />
 #### The presentation can be found [here](https://github.com/MeshalAlamr/emotion-detection-nlp/blob/main/final-presentation.pdf).
 
