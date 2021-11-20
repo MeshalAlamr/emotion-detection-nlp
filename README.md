@@ -23,7 +23,7 @@ Detecting emotions from tweets based on output feature vectors of topic modellin
 
 ## Exploratory Data Analysis <a name="eda" />
 #### Distribution of emotions in the dataset after selecting the top 5 emotions:
-![distribution](https://user-images.githubusercontent.com/68873733/142738226-570b9a96-4897-4f75-8c68-f9534b96ff92.png)
+![distribution](https://user-images.githubusercontent.com/68873733/142738325-d322049b-8928-4cd2-b711-d1036a1fab2e.png)
 
 #### Word cloud of "Happiness"
 ![happy](https://user-images.githubusercontent.com/68873733/142738244-0849c282-75eb-4e70-935b-5870d563e447.png)
